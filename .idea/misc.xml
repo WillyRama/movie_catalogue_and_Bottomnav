@@ -5,6 +5,12 @@
       <map>
         <entry key="..\:/Native/movie_catalogue/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
         <entry key="..\:/Native/movie_catalogue/app/src/main/res/layout/movie_item.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/movie_catalogue/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.159" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/movie_catalogue/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.159" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/movie_catalogue/app/src/main/res/drawable/ic_launcher_background.xml" value="0.203" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/movie_catalogue/app/src/main/res/layout/activity_detail_movie.xml" value="0.11730072463768115" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/movie_catalogue/app/src/main/res/layout/activity_main.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/movie_catalogue/app/src/main/res/layout/movie_item.xml" value="0.20425724637681159" />
       </map>
     </option>
   </component>
